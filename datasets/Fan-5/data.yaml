@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 1
+names: ['Fan']
+
+roboflow:
+  workspace: robocup-z5pzj
+  project: fan-fgb9n
+  version: 5
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/robocup-z5pzj/fan-fgb9n/dataset/5
