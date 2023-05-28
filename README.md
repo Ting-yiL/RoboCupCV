@@ -1,1 +1,1 @@
-# This program was created by members of the Engineering Innovation Club of Chulalongkorn University. The purpose of this program is to test YOLOv8 as one of the computer vision modules for the team's robot.
+# 
